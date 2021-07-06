@@ -1,0 +1,43 @@
+@media (max-width: 670px){
+  /*ヘッダー*/
+  .header-logo {
+    margin-left: -16px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }  
+  .header-logo img {
+    width: 35%;
+  }  
+  /*トップ*/
+  .top h1 {
+    font-size: 1.3rem;
+    margin: 120px 0 40px 0;
+  }
+  .logo img {
+    margin-bottom: 56px;
+    width: 30%;
+  }  
+  /*作品概要*/
+  .top-description {
+    width: 90%;
+  }
+  .top-description h2 {
+    font-size: 1.1rem;
+  }
+  .top-description h3 {
+    font-size: 0.9rem;
+    margin: 40px 0 24px;
+  }  
+  .description-p {
+    font-size: 0.8rem;
+  }  
+  .time {
+    padding: 64px 0;
+    width: 90%;
+  }
+  .time h5 {
+    font-size: 0.9rem;
+  }
+  
+}
